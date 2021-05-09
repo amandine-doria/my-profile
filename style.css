@@ -1,0 +1,58 @@
+body {
+    background-color: #aaaaaa;
+    color: #e1701a;
+    font-family: Arial, serif;
+    font-size: 20px;
+    line-height: 1.6;
+    letter-spacing: 0px;
+    font-weight: bold;
+
+
+}
+p{text-justify:center;}
+
+
+h1, h2 {
+    color: #f7a440;
+    font-family: Courrier, monospace;
+    font-size: 50px;
+}
+
+
+a {text-decoration: none;
+color: #bf0cb0
+}
+a:hover {
+	color: blue
+}
+
+div {
+background: whitesmoke;
+    padding: 60px;
+    margin: 50px auto;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+    text-align: center;
+}
+
+#amandiinx{
+	border: 50%
+}
+
+.img-circle {
+	border-radius: 50px;
+}
+.text-justify{
+	text-align: justify;
+}
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+
+
+
+
+
+
